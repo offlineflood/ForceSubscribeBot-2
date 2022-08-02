@@ -1,0 +1,1 @@
+BotsClub: python bot.py
